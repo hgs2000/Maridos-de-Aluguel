@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2bb2c60-026d-45c0-ad13-f23fc96e7ac0" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../MdA/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1547">
+              <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MdA/views/login.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MdA/routes/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newuser.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MdA/views/newuser.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="28" column="93" lean-forward="true" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../MdA/views/users.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jade File" />
+        <option value="JavaScript File" />
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tit</find>
+      <find>index</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../MdA/views/index.jade" />
+        <option value="$PROJECT_DIR$/../MdA/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/../MdA/views/login.jade" />
+        <option value="$PROJECT_DIR$/../MdA/views/layout.jade" />
+        <option value="$PROJECT_DIR$/../MdA/routes/index.js" />
+        <option value="$PROJECT_DIR$/../MdA/views/index.pug" />
+        <option value="$PROJECT_DIR$/../MdA/public/javascripts/materialize.js" />
+        <option value="$PROJECT_DIR$/../MdA/routes/newuser.js" />
+        <option value="$PROJECT_DIR$/../MdA/views/layout.pug" />
+        <option value="$PROJECT_DIR$/../MdA/views/done.pug" />
+        <option value="$PROJECT_DIR$/../MdA/routes/login.js" />
+        <option value="$PROJECT_DIR$/../MdA/views/users.pug" />
+        <option value="$PROJECT_DIR$/../MdA/views/newuser.pug" />
+        <option value="$PROJECT_DIR$/../MdA/views/modals/lost-password.pug" />
+        <option value="$PROJECT_DIR$/../MdA/views/login.pug" />
+        <option value="$PROJECT_DIR$/../MdA/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/../MdA/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/../MdA/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="339" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Maridos de Aluguel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MdA" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.2" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2bb2c60-026d-45c0-ad13-f23fc96e7ac0" name="Default" comment="" />
+      <created>1508367137882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508367137882</updated>
+      <workItem from="1508367139246" duration="9818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9818000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../MdA/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="213" column="0" lean-forward="false" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/public/javascripts/materialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/done.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/dupla/WebstormProjects/MdA">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/../MdA</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/../MdA/app.js#bodyParser#183;C:/Users/dupla/WebstormProjects/MdA/app.js#cookieParser#138;C:/Users/dupla/WebstormProjects/MdA/app.js#express#4;C:/Users/dupla/WebstormProjects/MdA/app.js#favicon#66;C:/Users/dupla/WebstormProjects/MdA/app.js#index#225;C:/Users/dupla/WebstormProjects/MdA/app.js#logger#106;C:/Users/dupla/WebstormProjects/MdA/app.js#login#345;C:/Users/dupla/WebstormProjects/MdA/app.js#newuser#303;C:/Users/dupla/WebstormProjects/MdA/app.js#path#38;C:/Users/dupla/WebstormProjects/MdA/app.js#users#264;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/application.js#Router#274;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#View#485;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#compileETag#557;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#compileQueryParser#614;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#compileTrust#672;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#debug#432;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#deprecate#709;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#finalhandler#230;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#flatten#753;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#http#515;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#merge#793;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#methods#308;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#middleware#342;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#query#389;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#resolve#839;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/attrs.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/block-comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/case.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/code.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/comment.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/compiler.js#constantinople#299;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#doctypes#87;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#filters#51;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#nodes#19;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#parseJSExpression#257;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#runtime#125;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#selfClosing#193;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/compiler.js#utils#161;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/src/debug.js#ms#354;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/doctype.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/doctypes.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/each.js#Node#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/events.js#EventEmitter#420;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/express.js#EventEmitter#233;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#Route#349;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#Router#388;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#mixin#269;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#proto#311;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#query.js#1465;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#req#422;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#res#454;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/express.js#serve-static#1513;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/filter.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/filters.js#CleanCSS#144;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/filters.js#jstransformer#63;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/filters.js#name#1361;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/filters.js#transformers#19;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/filters.js#uglify#109;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/fs.js#readFileSync#11806;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/index.js#block-comment.js#477;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#block.js#233;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#case.js#164;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#code.js#96;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#comment.js#392;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#doctype.js#523;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#each.js#130;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#filter.js#353;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#literal.js#432;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#mixin-block.js#274;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#mixin.js#316;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#node.js#30;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#tag.js#63;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/index.js#text.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/cookie-parser/index.js#cookie#190;C:/Users/dupla/WebstormProjects/MdA/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/router/index.js#Layer#262;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#Route#230;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#debug#364;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#deprecate#412;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#flatten#456;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#methods#294;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#mixin#328;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#parseUrl#496;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/serve-favicon/index.js#Buffer#236;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#etag#270;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#fresh#297;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#fs#326;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#ms#349;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#parseUrl#372;C:/Users/dupla/WebstormProjects/MdA/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/src/index.js#browser.js#186;C:/Users/dupla/WebstormProjects/MdA/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/index.js#deprecate#156;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/index.js#json.js#2302;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/index.js#raw.js#2373;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/index.js#text.js#2444;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/morgan/index.js#auth#411;C:/Users/dupla/WebstormProjects/MdA/node_modules/morgan/index.js#debug#444;C:/Users/dupla/WebstormProjects/MdA/node_modules/morgan/index.js#deprecate#483;C:/Users/dupla/WebstormProjects/MdA/node_modules/morgan/index.js#onFinished#525;C:/Users/dupla/WebstormProjects/MdA/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/routes/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/index.js#Compiler#206;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#Lexer#175;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#Parser#142;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#addWith#278;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#doctypes.js#602;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#filters.js#670;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#fs#308;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#index.js#943;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#runtime#243;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#utils#331;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/index.js#void-elements#515;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/inline-tags.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/src/inspector-log.js#nullStream#70;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/jade.js#Attrs#66015;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#Block#66047;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#Compiler#1072;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#Lexer#1041;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#Node#61881;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#Parser#1008;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#_process#101411;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#acorn#112281;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#addWith#1144;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#block#63626;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#block-comment#63870;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#case#63557;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#characterParser#32766;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#code#63489;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#comment#63785;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#constantinople#68597;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#detect#261065;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#doctype#63916;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#doctypes#1468;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#each#63523;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#filter#63746;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#filters#1536;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#fs#79378;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#inlineTags#66079;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#literal#63825;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#mixin#63709;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#mixin-block#63667;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#node#63423;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#nodes#1809;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#p#78722;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#parseJSExpression#11499;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#path#68569;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#readFileSync#93254;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#runtime#1109;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#selfClosing#11435;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#tag#63456;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#text#63591;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#utils#32734;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#void-elements#1381;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/jade.js#walk#261134;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/bin/jade.js#fs#58;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/bin/jade.js#jade#309;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/bin/jade.js#mkdirp#278;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/bin/jade.js#path#116;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/bin/jade.js#program#81;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/bin/jade.js#version#400;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/lib/types/json.js#bytes#190;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/json.js#contentType#219;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/json.js#createError#261;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/json.js#debug#302;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/json.js#read#351;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/router/layer.js#debug#274;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/lexer.js#characterParser#51;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/lexer.js#utils#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/literal.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/routes/login.js#express#4;C:/Users/dupla/WebstormProjects/MdA/routes/login.js#mysql#39;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/mixin-block.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/mixin.js#Attrs#19;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/net.js#isIP#40076;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/routes/newuser.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/node.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/debug/src/node.js#debug.js#214;C:/Users/dupla/WebstormProjects/MdA/node_modules/debug/src/node.js#fs#4406;C:/Users/dupla/WebstormProjects/MdA/node_modules/debug/src/node.js#net#4575;C:/Users/dupla/WebstormProjects/MdA/node_modules/debug/src/node.js#tty#37;C:/Users/dupla/WebstormProjects/MdA/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/package.json#version#4360;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/parser.js#Lexer#19;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#constantinople#179;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#filters#115;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#fs#10960;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#nodes#51;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#p#10304;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#parseJSExpression#247;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#path#151;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/parser.js#utils#83;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/path.js#resolve#33754;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/middleware/query.js#merge#218;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/middleware/query.js#parseUrl#253;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/lib/types/raw.js#bytes#144;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/raw.js#debug#173;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/raw.js#read#221;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/lib/read.js#createError#156;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/read.js#getBody#197;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/read.js#iconv#231;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/read.js#onFinished#265;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/release.js#compiledWebsite#452;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/release.js#fs#19;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/release.js#pr#43;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/release.js#readdirp#88;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/release.js#version#413;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/request.js#accepts#230;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#deprecate#264;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#fresh#401;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#http#373;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#isIP#315;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#parse#473;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#parseRange#431;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#proxyaddr#506;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/response.js#contentDisposition#194;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#cookie#793;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#deprecate#251;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#encodeUrl#295;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#escapeHtml#333;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#http#374;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#isAbsolute#415;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#merge#554;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#normalizeType#651;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#normalizeTypes#706;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#onFinished#450;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#path#491;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#send#825;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#setCharset#758;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#sign#597;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#statuses#519;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/router/route.js#Layer#324;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/route.js#debug#230;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/route.js#flatten#284;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/runtime.js#readFileSync#5773;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/runtime.js#readFileSync#4928;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/tag.js#Attrs#19;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/tag.js#Block#51;C:/Users/dupla/WebstormProjects/MdA/node_modules/jade/lib/nodes/tag.js#inlineTags#83;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/nodes/text.js#Node#19;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/lib/types/text.js#bytes#144;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/text.js#contentType#173;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/text.js#debug#215;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/text.js#read#264;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/tty.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#createError#261;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#debug#302;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#qs#4477;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#querystring.js#4539;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#read#404;C:/Users/dupla/WebstormProjects/MdA/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/routes/users.js#express#4;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/util.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/utils.js#compileETag#3405;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#compileQueryParser#3955;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#compileTrust#4605;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#contentDisposition#198;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#contentType#255;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#deprecate#298;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#etag#415;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#flatten#342;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#isAbsolute#1267;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#mime#389;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#normalizeType#1874;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#normalizeTypes#2152;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#proxyaddr#443;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#qs#482;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#querystring#506;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/utils.js#setCharset#5202;</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/jade/lib/utils.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/node_modules/express/lib/view.js#__express#1537;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/view.js#debug#230;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/view.js#fs#304;C:/Users/dupla/WebstormProjects/MdA/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$USER_HOME$/node_modules/acorn/dist/walk.js</node>
+            <node x="" y="">$PROJECT_DIR$/../MdA/bin/www#app#58;C:/Users/dupla/WebstormProjects/MdA/bin/www#debug#87;C:/Users/dupla/WebstormProjects/MdA/bin/www#http#131;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/6.11.2/core-modules/zlib.js</node>
+            <node x="" y="">_process</node>
+            <node x="" y="">accepts</node>
+            <node x="" y="">acorn</node>
+            <node x="" y="">acorn-globals</node>
+            <node x="" y="">array-flatten</node>
+            <node x="" y="">attrs</node>
+            <node x="" y="">block</node>
+            <node x="" y="">block-comment</node>
+            <node x="" y="">body-parser</node>
+            <node x="" y="">bytes</node>
+            <node x="" y="">case</node>
+            <node x="" y="">parseMax;</node>
+            <node x="" y="">clean-css</node>
+            <node x="" y="">code</node>
+            <node x="" y="">commander</node>
+            <node x="" y="">comment</node>
+            <node x="" y="">compiler</node>
+            <node x="" y="">constantinople</node>
+            <node x="" y="">content-disposition</node>
+            <node x="" y="">content-type</node>
+            <node x="" y="">cookie</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">debug</node>
+            <node x="" y="">depd</node>
+            <node x="" y="">doctype</node>
+            <node x="" y="">doctypes</node>
+            <node x="" y="">each</node>
+            <node x="" y="">encodeurl</node>
+            <node x="" y="">escape-html</node>
+            <node x="" y="">etag</node>
+            <node x="" y="">express</node>
+            <node x="" y="">filter</node>
+            <node x="" y="">filters</node>
+            <node x="" y="">finalhandler</node>
+            <node x="" y="">fresh</node>
+            <node x="" y="">http-errors</node>
+            <node x="" y="">iconv-lite</node>
+            <node x="" y="">inline-tags</node>
+            <node x="" y="">jstransformer</node>
+            <node x="" y="">lexer</node>
+            <node x="" y="">literal</node>
+            <node x="" y="">sync;</node>
+            <node x="" y="">merge-descriptors</node>
+            <node x="" y="">methods</node>
+            <node x="" y="">mixin</node>
+            <node x="" y="">mixin-block</node>
+            <node x="" y="">mkdirp</node>
+            <node x="" y="">__express;</node>
+            <node x="" y="">ms</node>
+            <node x="" y="">mysql</node>
+            <node x="" y="">name</node>
+            <node x="" y="">node</node>
+            <node x="" y="">nodes</node>
+            <node x="" y="">on-finished</node>
+            <node x="" y="">parser</node>
+            <node x="" y="">parseurl</node>
+            <node x="" y="">path-to-regexp</node>
+            <node x="" y="">proxy-addr</node>
+            <node x="" y="">pull-request</node>
+            <node x="" y="">qs</node>
+            <node x="" y="">range-parser</node>
+            <node x="" y="">raw-body</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">serve-static</node>
+            <node x="" y="">setprototypeof</node>
+            <node x="" y="">statuses</node>
+            <node x="" y="">stop.js</node>
+            <node x="" y="">Writable;</node>
+            <node x="" y="">tag</node>
+            <node x="" y="">text</node>
+            <node x="" y="">transformers</node>
+            <node x="" y="">type-is</node>
+            <node x="" y="">uglify-js</node>
+            <node x="" y="">utils</node>
+            <node x="" y="">utils-merge</node>
+            <node x="" y="">vary</node>
+            <node x="" y="">void-elements</node>
+            <node x="" y="">with</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.16899224806201552" x="2212.0" y="1602.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/node_modules/express/lib/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="46" column="11" lean-forward="false" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/routes/newuser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/users.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/newuser.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="28" column="93" lean-forward="true" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/modals/lost-password.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/views/login.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MdA/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

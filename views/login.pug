@@ -1,0 +1,33 @@
+extends index
+
+block content
+
+    form.well(id='form-login', method='post')
+        h2 Olá!
+        h6 Favor entrar na sua conta
+        .form-group
+            label Usuário
+            input.form-control(type='text', id='user-tf', name='user')
+        .form-group
+            label Senha
+            input.form-control(type='password', id='pass-tf', name='pass')
+        .controls
+            button(type='button').btn.btn-default.button-remember-me
+                span.glyphicon.glyphicon-unchecked.button-remember-me-glyph
+                | Lembrar de mim
+            button(type='button').btn.btn-primary.button-sign-in
+                span.glyphicon.glyphicon-lock
+                | Logar
+            .clearfix
+                hr
+                .btm-links
+                    #forgot-password
+                        a(href='#') Esqueceu sua senha?
+                    #create-account
+                        a(href='/signup') Criar uma conta
+                .clearfix
+
+        include modals/lost-password
+
+block js
+    //script(src='/javascripts/materialize.js')
