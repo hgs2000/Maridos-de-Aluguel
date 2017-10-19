@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  
+  form(action='/registrar' method='POST')
+    label(for='texto') Escreva a opção
+    input(type='texto' name='texto')
+    input(type='submit' value='ok')
+  
+block js

@@ -9,6 +9,7 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 var newuser = require('./routes/newuser');
 var login = require('./routes/login');
+var historia = require('./routes/historia')
 
 var app = express();
 
@@ -21,7 +22,7 @@ function getMySQLConnection() {
     return mysql.createConnection({
         host: 'localhost',
         user: 'root',
-        password: 'root',
+        password: 'alunoifc',
         database: 'MdA'
     });
 }
@@ -145,6 +146,20 @@ app.get('/newuser', function (req, res) {
     connection.end();
 });
 
+///método POST /historia
+app.get('/registrar', function (req, res) {
+
+    // Connect to MySQL database.
+    var connection = getMySQLConnection();
+    connection.connect();
+
+    connection.execute("INSERT INTO users VALUE ("+ req.body.texto+", 'senha', 'ata');");
+
+    // Close the MySQL connection
+    connection.end();
+
+});
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -162,6 +177,7 @@ app.use('/', index);
 app.use('/signup', newuser);
 app.use('/users', users);
 app.use('/login', login);
+app.use('/historia', historia)
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
