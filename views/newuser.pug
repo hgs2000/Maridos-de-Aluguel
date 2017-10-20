@@ -2,40 +2,42 @@ extends layout
 
 block content
 
-    script.
-        $(document).on('change', 'showpass', function () {
-            $('#hiddendiv').prop('type', 'password')
-        })
+    form#newuser(name='', method='post')
+        div#input
+            span.label(for='user') Usuário
+            br
+            input(type='text', name='user')
+            br
+            br
+            span.label Senha
+            br
+            input(type='password', name='pswd')
+            br
+            br
+            span.label Nome
+            br
+            input(type='text', name='name')
+            
+        div#actions
+            br
+            input(type='submit', value='Adicionar usuário')
+            
+        script.
+            const formLogin = document.querySelector('#newuser');
 
-    div
-        form(action='/signup', method='post')
-            div(data-role='fieldcontain')
-                fieldset(data-role='controlgroup')
-                    label(for='email') Email
-                    input(id='email', type='text', value='', placeholder='email@domínio')
-            div(id='passworddiv' data-role='fieldcontain' style='display: none')
-                fieldset(data-role='controlgroup')
-                    label(for='password') Senha
-                    input(id='password', type='password', value='', placeholder='Senha')
-            div(id='hiddendiv', data-role='fieldcontain')
-                fieldset(data-role='controlgroup')
-                    label(for='hidden_password') Senha
-                    input(id='hidden_password', type='text', value='', placeholder='')
-            div(data-role='fieldcontain')
-                fieldset(data-type='vertical', data-role='controlgroup')
-                    label(for='showpass') Mostrar Senha
-                    input(id='showpass', type='checkbox')
-            div(data-role='fieldcontain')
-                input(type='submit', value='Sign Up', data-transition='fade', data-theme='c')
+            formLogin.addEventListener('submit', function(event) {
+                const formData = new FormData(formLogin);
+
+                console.log('Form Data: ', formData);
+                event.preventDefault();
+                fetch('/register', {
+                    method: 'POST',
+                    body: formData
+                });
+            });
+
+    
+        
 
 block js
-    script.
-        function pswdVis() {
-            if ($('#showpass:checkbox:checked')) {
-                $('#hiddendiv').show();
-                $('#passwordiv').hide();
-            } else {
-                $('#hiddendiv').hide();
-                $('#passwordiv').show();
-            }
-        }
+    

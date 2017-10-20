@@ -1,3 +1,5 @@
+/* global __dirname */
+
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
@@ -9,7 +11,7 @@ var index = require('./routes/index');
 var users = require('./routes/users');
 var newuser = require('./routes/newuser');
 var login = require('./routes/login');
-var historia = require('./routes/historia')
+var historia = require('./routes/historia');
 
 var app = express();
 
@@ -146,6 +148,15 @@ app.get('/newuser', function (req, res) {
     connection.end();
 });
 
+app.post('/register', function (req, res) {
+    var connection = getMySQLConnection();
+    connection.connect();
+    
+    var command = "INSERT INTO users VALUE (" + req.body.user + ", " + req.body.pswd + "," + req.body.pswd + ");";
+    connection.execute(command);
+    connection.end;
+});
+
 ///método POST /historia
 app.get('/registrar', function (req, res) {
 
@@ -177,7 +188,7 @@ app.use('/', index);
 app.use('/signup', newuser);
 app.use('/users', users);
 app.use('/login', login);
-app.use('/historia', historia)
+app.use('/historia', historia);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
